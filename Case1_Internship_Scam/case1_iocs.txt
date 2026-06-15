@@ -1,0 +1,31 @@
+Case 1 - Cal-1 Card Internship Scam
+
+Campaign Type:
+Job/Internship Phishing
+
+Suspicious Email Address:
+hinshaw.berkeley.edu@gmail.com
+
+Impersonated Organization:
+UC Berkeley
+
+Impersonated Individual:
+Prof. Stephen P. Hinshaw
+
+Subject:
+Inquiry Received!
+
+Requested Information:
+- Student ID Card
+- Resume
+
+Social Engineering Techniques:
+- Authority
+- Trust
+- Employment Opportunity
+
+MITRE ATT&CK:
+T1566 - Phishing
+
+Risk Level:
+High
