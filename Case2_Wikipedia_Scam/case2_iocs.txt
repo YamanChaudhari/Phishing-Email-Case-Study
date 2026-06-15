@@ -1,0 +1,35 @@
+Case 2 - Fake Wikipedia Page Editorial Assistance Scam
+
+Campaign Type:
+Social Engineering / Reputation Scam
+
+Suspicious Email Address:
+[edward.wikipediaeditor@gmail.com](mailto:edward.wikipediaeditor@gmail.com)
+
+Impersonated Role:
+Wikipedia Editor
+
+Subject:
+Your Academic Legacy with a Wikipedia Page
+
+Target:
+University Faculty / Professors
+
+Social Engineering Techniques:
+
+* Flattery
+* Professional Recognition
+* Trust Building
+
+Indicators:
+
+* Gmail address used for a professional service
+* Unsolicited contact
+* Excessive praise of recipient
+* Attempts to establish trust
+
+MITRE ATT&CK:
+T1566 - Phishing
+
+Risk Level:
+Medium
